@@ -20,7 +20,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'aa'
+      msg: 'someone else change'
     }
   }
 }
