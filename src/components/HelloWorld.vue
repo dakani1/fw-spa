@@ -20,7 +20,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'abcde change napier'
+      msg: 'abcde napier change again'
     }
   }
 }
